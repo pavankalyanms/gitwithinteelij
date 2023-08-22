@@ -1,2 +1,4 @@
-package org.example;public class maincheck {
+package org.example;
+
+public class maincheck {
 }
